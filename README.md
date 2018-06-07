@@ -10,4 +10,5 @@
 ### running 
 ```
  gradlew bootrun 
+ http://localhost:8040/
 ```
